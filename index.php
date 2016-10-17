@@ -42,7 +42,7 @@
 
     <p>S.H.I.E.L.D is looking for <span style="text-decoration: line-through">nutters</span> Superheroes. Would you like to sign up?</p>
 
-    <form action="heroes.php" method="post" STYLE="margin: auto">
+    <form action="heroes.php" method="post" STYLE="margin-left: auto; margin-right: auto">
 
         <label>Forename</label><input type="text" name="forename">
         <br>
