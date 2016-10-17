@@ -42,12 +42,18 @@
 
     <p>S.H.I.E.L.D is looking for <span style="text-decoration: line-through">nutters</span> Superheroes. Would you like to sign up?</p>
 
-    <form action="heroes.php" method="post" STYLE="margin-left: 3%; margin-right: 3%">
+    <form action="heroes.php" method="post" STYLE="margin-left: 3%; margin-right: 3%;">
 
         <label>Forename: </label><input type="text" name="forename">
+
         <br>
+        <br>
+
         <label>Surname: </label><input type="text" name="surname">
+
         <br>
+        <br>
+
         <label>Superpower: </label> <select name="powers">
 
             <option value="Intelligence">Hyper-Intelligence</option>
@@ -60,6 +66,8 @@
         </select>
 
         <br>
+        <br>
+
         <label>Gender: </label>
         <select name="gender">
             <option value="male">Male</option>
@@ -67,7 +75,7 @@
             <option valiue="other">Other</option>
         </select>
 
-
+        <input type="submit" name="submit" value="Submit">
     </form>
     
 </div>
