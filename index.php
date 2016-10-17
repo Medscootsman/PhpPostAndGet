@@ -31,8 +31,8 @@
 
 <ol>
     <li><a href="http://phpmurray.azurewebsites.net/earth.php?planet=Earth">Earth</a></li>
-    <li><a href="http://phpmurray.azurewebsites.net/mars.php?planet=Mars">Mars</a></li>
-    <li><a href="http://phpmurray.azurewebsites.net/uranus.php?planet=Uranus">Uranus</a></li>
+    <li><a href="http://phpmurray.azurewebsites.net/earth.php?planet=Mars">Mars</a></li>
+    <li><a href="http://phpmurray.azurewebsites.net/earth.php?planet=Uranus">Uranus</a></li>
 </ol>
 <?php
 
