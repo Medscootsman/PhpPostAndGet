@@ -60,8 +60,8 @@
             <option value="Strength">Super-Strength</option>
             <option value="Speed">Speed</option>
             <option value="Technology">Access to advanced technology</option>
-            <option value="deity">Otherworldy being</option>
-            <option value="soldier">Skilled combatant</option>
+            <option value="Otherworldy Being">Otherworldy being</option>
+            <option value="Soldier">Skilled combatant/Former Special Forces</option>
 
         </select>
 
@@ -82,6 +82,13 @@
     </form>
     
 </div>
+
+<h4>database task</h4>
+
+<br>
+
+<a href="http://phpmurray.azurewebsites.net/superheroform.html">The task</a>
+
 <?php
 
 ?>
