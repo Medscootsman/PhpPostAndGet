@@ -34,6 +34,11 @@
     <li><a href="http://phpmurray.azurewebsites.net/earth.php?planet=Mars">Mars</a></li>
     <li><a href="http://phpmurray.azurewebsites.net/earth.php?planet=Uranus">Uranus</a></li>
 </ol>
+
+<h1>S.H.E.I.L.D</h1>
+
+<p>S.H.E.I.L.D is looking for <p style="text-decoration: line-through" nutters</p> Superheroes. Would you like to sign up?</p>
+
 <?php
 
 ?>
