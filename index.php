@@ -35,12 +35,32 @@
     <li><a href="http://phpmurray.azurewebsites.net/earth.php?planet=Uranus">Uranus</a></li>
 </ol>
 
-<h1 style="margin: auto">S.H.E.I.L.D</h1>
+<h1 style="margin: auto">S.H.I.E.L.D</h1>
 
 <br>
 <div id="shield" style="float:left">
-<p>S.H.E.I.L.D is looking for <span style="text-decoration: line-through">nutters</span> Superheroes. Would you like to sign up?</p>
 
+    <p>S.H.I.E.L.D is looking for <span style="text-decoration: line-through">nutters</span> Superheroes. Would you like to sign up?</p>
+
+    <form action="heroes.php" method="post">
+
+        <label>Forename</label><input type="text" name="forename">
+        <br>
+        <label>Surname</label><input type="text" name="surname">
+        <br>
+        <label>Superpower</label> <select name="powers">
+            <option value="Intelligence">Hyper-Intelligence</option>
+            <option value="Strength">Super-Strength</option>
+            <option value="Speed">Speed</option>
+            <option value="Technology">Access to advanced technology</option>
+            <option value="deity">Otherworldy being</option>
+            <option value="soldier">Skilled combatant <b>(NEED TO HAVE SERVED IN VALID SPECIAL FORCES BRANCH FOR MINIMUM OF 5 YEARS OR HAVE DEBRIEFING OF HIGH RISK OP</b></option>S
+
+
+        </select>
+
+    </form>
+    
 </div>
 <?php
 
