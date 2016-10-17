@@ -37,7 +37,7 @@
 
 <h1>S.H.E.I.L.D</h1>
 
-<p>S.H.E.I.L.D is looking for <p style="text-decoration: line-through" nutters</p> Superheroes. Would you like to sign up?</p>
+<p>S.H.E.I.L.D is looking for <p style="text-decoration: line-through" > nutters </p> Superheroes. Would you like to sign up?</p>
 
 <?php
 
