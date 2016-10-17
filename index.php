@@ -30,9 +30,9 @@
 <p>Where would you like to say hello?</p>
 
 <ol>
-    <li><a href="">Earth</a></li>
-    <li><a href="">Mars</a></li>
-    <li><a href="">Uranus</a></li>
+    <li><a href="http://phpmurray.azurewebsites.net/earth.php?planet=Earth">Earth</a></li>
+    <li><a href="http://phpmurray.azurewebsites.net/mars.php?planet=Mars">Mars</a></li>
+    <li><a href="http://phpmurray.azurewebsites.net/uranus.php?planet=Uranus">Uranus</a></li>
 </ol>
 <?php
 
