@@ -29,7 +29,7 @@ $superpowers = $_POST['powers'];
 $gender = $_POST['gender'];
 
 
-echo "<label>$forename </label>". "<br> <label> $surname</label>". "<br><label>$superpowers</label>"."<br><label>gender</label>";
+echo "<label>Forename:</label>". "<p>$forename</p>" ."<br> <label>Surname:</label>"."<p>$surname</p>"."<br><label>Superpower:</label>"."<p>$superpowers</p>"."<br><label>Gender:</label>"."<p>$gender</p>";
 ?>
 
 </body>
