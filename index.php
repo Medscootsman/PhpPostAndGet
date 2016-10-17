@@ -35,7 +35,7 @@
     <li><a href="http://phpmurray.azurewebsites.net/earth.php?planet=Uranus">Uranus</a></li>
 </ol>
 
-<h1>S.H.E.I.L.D</h1>
+<h1 style="margin: auto">S.H.E.I.L.D</h1>
 
 <br>
 <div id="shield" style="float:left">
