@@ -61,7 +61,7 @@
             <option value="Speed">Speed</option>
             <option value="Technology">Access to advanced technology</option>
             <option value="deity">Otherworldy being</option>
-            <option value="soldier">Skilled combatant <b>(NEED TO HAVE SERVED IN VALID SPECIAL FORCES BRANCH FOR MINIMUM OF 5 YEARS OR HAVE DEBRIEFING OF OPERATION.</b></option>S
+            <option value="soldier">Skilled combatant</option>
 
         </select>
 
@@ -77,7 +77,7 @@
 
         <br>
         <br>
-        
+
         <input type="submit" name="submit" value="Submit">
     </form>
     
