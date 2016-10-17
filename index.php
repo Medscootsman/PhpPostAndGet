@@ -42,22 +42,31 @@
 
     <p>S.H.I.E.L.D is looking for <span style="text-decoration: line-through">nutters</span> Superheroes. Would you like to sign up?</p>
 
-    <form action="heroes.php" method="post" STYLE="margin-left: auto; margin-right: auto">
+    <form action="heroes.php" method="post" STYLE="margin-left: 5%; margin-right: 5%">
 
-        <label>Forename</label><input type="text" name="forename">
+        <label>Forename: </label><input type="text" name="forename">
         <br>
-        <label>Surname</label><input type="text" name="surname">
+        <label>Surname: </label><input type="text" name="surname">
         <br>
-        <label>Superpower</label> <select name="powers">
+        <label>Superpower: </label> <select name="powers">
+
             <option value="Intelligence">Hyper-Intelligence</option>
             <option value="Strength">Super-Strength</option>
             <option value="Speed">Speed</option>
             <option value="Technology">Access to advanced technology</option>
             <option value="deity">Otherworldy being</option>
-            <option value="soldier">Skilled combatant <b>(NEED TO HAVE SERVED IN VALID SPECIAL FORCES BRANCH FOR MINIMUM OF 5 YEARS OR HAVE DEBRIEFING OF HIGH RISK OP</b></option>S
-
+            <option value="soldier">Skilled combatant <b>(NEED TO HAVE SERVED IN VALID SPECIAL FORCES BRANCH FOR MINIMUM OF 5 YEARS OR HAVE DEBRIEFING OF OPERATION.</b></option>S
 
         </select>
+
+        <br>
+        <label>Gender: </label>
+        <select name="gender">
+            <option value="male" Male></option>
+            <option value="female">Female</option>
+            <option valiue="other">Other</option>
+        </select>
+
 
     </form>
     
