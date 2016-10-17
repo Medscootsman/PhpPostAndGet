@@ -19,7 +19,7 @@
 
 <body>
 
-<H1>Super details</H1>
+<H1>Superhero details</H1>
 
 <?php
 
@@ -29,7 +29,7 @@ $superpowers = $_POST['powers'];
 $gender = $_POST['gender'];
 
 
-echo "<ul> " ."<li>". "$forename </li>". "<li> $surname</li>". "<li>$superpowers</li>"."<li>gender</li>"."</ul>";
+echo "<label>$forename </label>". "<br> <label> $surname</label>". "<br><label>$superpowers</label>"."<br><label>gender</label>";
 ?>
 
 </body>
