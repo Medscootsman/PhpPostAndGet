@@ -11,6 +11,9 @@ if (!$db) {
 
 }
 
-$sql = "SELECT * FROM superheros";
+$forename = $_POST['forename'];
+$surname = $_POST['surname'];
+$superpower = $_POST['superpower'];
+$sql = "INSERT INTO Superheros(firstName,lastName, mainSuperpower) VALUES ('$forename', '$surname', '$superpower')";
 $result = "";
 ?>

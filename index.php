@@ -82,12 +82,14 @@
     </form>
     
 </div>
-
+<div id="task3" style="float:left">
 <h4>database task</h4>
 
 <br>
 
 <a href="http://phpmurray.azurewebsites.net/superheroform.html">The task</a>
+
+</div>
 
 <?php
 
